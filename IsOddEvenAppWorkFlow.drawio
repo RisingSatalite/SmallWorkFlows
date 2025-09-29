@@ -65,7 +65,7 @@
         <mxCell id="p6CKSHTcWJaVP56w9Yfs-6" value="Display&lt;div&gt;&quot;Odd Number&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p6CKSHTcWJaVP56w9Yfs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p6CKSHTcWJaVP56w9Yfs-7" target="p6CKSHTcWJaVP56w9Yfs-4" edge="1">
+        <mxCell id="p6CKSHTcWJaVP56w9Yfs-10" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p6CKSHTcWJaVP56w9Yfs-7" target="p6CKSHTcWJaVP56w9Yfs-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="530" as="targetPoint" />
             <Array as="points">
@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p6CKSHTcWJaVP56w9Yfs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p6CKSHTcWJaVP56w9Yfs-7" target="p6CKSHTcWJaVP56w9Yfs-2" edge="1">
+        <mxCell id="p6CKSHTcWJaVP56w9Yfs-15" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p6CKSHTcWJaVP56w9Yfs-7" target="p6CKSHTcWJaVP56w9Yfs-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6CKSHTcWJaVP56w9Yfs-7" value="Is number 0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
