@@ -1,0 +1,11 @@
+Get 3 numbers
+
+If number 1 is larger than number 2
+save number 1
+else
+save number 2
+
+if number 3 is larger than saved number 
+saved number is number 3
+
+return saved number
